@@ -1,0 +1,77 @@
+Real-World Project Mode
+
+🔹 Lesson 1: End-to-End Data Analytics Case Study
+==================================================
+Summary:
+An end-to-end project shows employers your ability to manage data from collection to insights.
+Steps:
+--------
+Collect raw data (sales, HR, finance, or marketing)
+Clean & preprocess it (missing values, formatting)
+Analyze trends, patterns, and outliers
+Visualize with Power BI or Tableau
+Deliver insights & recommendations
+
+Example:
+📊 Retail Sales Project — You analyze 2 years of sales data and uncover that weekend offers boost revenue by 35%.
+
+Video: Full Data Analytics Project Walkthrough – 25 mins
+
+
+🔹 Lesson 2: Dashboard Design & Storytelling
+===============================================
+Summary:
+Dashboards turn analysis into decisions. Focus on clarity, business metrics, and flow.
+Keep layout simple (KPIs → Trends → Details)
+Use consistent colors and labels
+Highlight one key takeaway per chart
+
+Example:
+An HR dashboard highlights that attrition > 10% among employees with < 1 year tenure — action item: improve onboarding.
+
+Video: Power BI Dashboard from Scratch – 18 mins
+
+
+🔹 Lesson 3: Analytics Interview Preparation
+================================================
+Summary:
+Common areas you’ll be tested on:
+SQL queries & joins
+Data cleaning & EDA
+Visualization logic (“Which chart would you use for…?”)
+Case scenarios: “What would you do if the dataset has 20% missing values?”
+Example Questions:
+Explain the difference between INNER JOIN and LEFT JOIN.
+How do you handle outliers in numeric data?
+
+Video: Top 50 Data Analyst Interview Questions & Answers – 30 mins
+
+
+🔹 Lesson 4: Portfolio Building & GitHub Optimization
+=========================================================
+Summary:
+Your GitHub portfolio is your online resume.
+Organize projects in separate folders with README files
+Add visuals (screenshots of dashboards)
+Write brief case study summaries (problem → solution → impact)
+
+Example:
+Retail-Sales-Insights → contains cleaned dataset, EDA notebook, Power BI dashboard, and insights.md explaining results.
+
+Video: Build a Data Analyst Portfolio on GitHub – 20 mins
+
+
+🔹 Lesson 5: Real-World Business Impact
+===========================================
+Summary:
+The goal of analytics isn’t just visualization—it’s action.
+Link insights to business KPIs (revenue, cost, growth)
+Quantify impact: “Reduced churn by 15%”, “Increased ROI by 12%”
+Present results in a storytelling style for stakeholders
+
+Example:
+📈 Marketing analytics found Instagram ads underperformed; shifting 20% budget to YouTube increased conversions by 22%.
+
+Video: Data-Driven Decision Making for Business – 12 mins
+
+
